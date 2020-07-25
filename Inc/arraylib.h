@@ -1,5 +1,5 @@
-#ifndef __LIB_H
-#define __LIB_H
+#ifndef __ARRAYLIB_H
+#define __ARRAYLIB_H
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -10,4 +10,4 @@ extern uint8_t *Check_Buffer(uint8_t *buff, uint16_t buff_len, uint8_t *data, ui
 
 
 
-#endif // __LIB_H
+#endif // __ARRAYLIB_H
